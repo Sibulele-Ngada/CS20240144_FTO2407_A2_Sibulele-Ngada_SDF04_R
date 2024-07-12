@@ -19,7 +19,7 @@ body {
     border-radius: 10px;
     width: 80%;
     display: flex;
-    justify-content: space-evenly; 
+    justify-content: space-around; 
   }
   
   .pastry {
